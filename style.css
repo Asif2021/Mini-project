@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.second-section{
+    background-color: rgb(163, 224, 49) ;
+    color: rgb(203, 250, 141);
+}
+.third-section{
+    font-size: small;
+}
+.third-section p{
+    line-height: 40%;
+    }
